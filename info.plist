@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Alto</string>
+	<key>ordering</key>
+	<array>
+		<string>30EB29BD-4575-473E-8129-FDADE8178086</string>
+		<string>8DD36D17-208B-4E42-8C63-51A9B3D6A50F</string>
+		<string>313D8786-0722-48B2-9E44-6F8C4DB82AE5</string>
+	</array>
+	<key>uuid</key>
+	<string>0D67F5D7-8894-482B-839B-CE3E24D27725</string>
+</dict>
+</plist>
